@@ -1,4 +1,5 @@
 <div align="center">
+
   
 ## StickyKenny
 Software Engineer - Creative Coder (Graphics)   </br>
@@ -29,19 +30,23 @@ Because you're more effective having everything centralized
 
 ## Preferred stack
 
-<a title="Java"><img src="icons/java.png" /></a>
-<a title="Python"><img src="icons/python.png" /></a>
-<a title="JavaScript"><img src="icons/javascript.png" /></a>
-<a title="TypeScript"><img src="icons/typescript.png" /></a>
-<a title="C"><img src="icons/c.png" /></a>
-<a title="C++"><img src="icons/cpluplus.png" /></a>
-<a title="Google Apps Script"><img src="icons/appsscript.png" /></a>
-<a title="PostGreSQL"><img src="icons/postgresql.png" /></a>
+<p align="center">
+<a title="Java"><img src="icons/Java.svg" width="50"/></a>
+<a title="Python"><img src="icons/Python.svg" width="50"/></a>
+<a title="JavaScript"><img src="icons/JavaScript.svg" width="50"/></a>
+<a title="TypeScript"><img src="icons/TypeScript.svg" width="50"/></a>
+<a title="C"><img src="icons/C.svg" width="50"/></a>
+<a title="C++"><img src="icons/C++-(CPlusPlus).svg" width="50"/></a>
+<a title="Google Apps Script"><img src="icons/Google_Apps_Script.svg" width="50"/></a>
+<a title="PostGreSQL"><img src="icons/PostgresSQL.svg" width="50"/></a>
+</p>
 
 ## Main Software used 
 
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
-<a href="https://www.jetbrains.com/fr-fr/idea/" title="IntelliJ IDEA"><img src="icons/vscode.png" /></a>
+<p align="center">
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/Visual-Studio-Code-(VS-Code).svg"  width="50"/></a>
+<a href="https://www.jetbrains.com/fr-fr/idea/" title="IntelliJ IDEA"><img src="icons/IntelliJ-IDEA.svg"  width="50"/></a>
+</p>
 
 </div>
 
