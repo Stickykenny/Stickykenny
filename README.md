@@ -1,16 +1,13 @@
 <div align="center">
 
+_This README IS A WORK-IN-PROGRESS_
   
 ## StickyKenny
-Software Engineer - Creative Coder (Graphics)   </br>
-<font size="2">_and whatever else gets the job done._</font>
+Software Engineer - Creative Coder (Graphics)   </br><font size="2">_and whatever else gets the job done._</font>
 
 
 _\~Comment your code properly, because you won't remember what you did the next day.~_  
 _\~I solve problems - I'm not a human database~_   
-
-</br>
-</br> 
 
 ## Working on 
 ###  Relaytd
@@ -29,7 +26,6 @@ Because you're more effective having everything centralized
 </br>
 
 ## Preferred stack
-
 <p align="center">
 <a title="Java"><img src="icons/Java.svg" width="50"/></a>
 <a title="Python"><img src="icons/Python.svg" width="50"/></a>
