@@ -9,12 +9,11 @@ Software Engineer - Creative Coder (Graphics)   </br><font size="2">_and whateve
 _\~Comment your code properly, because you won't remember what you did the next day.~_  
 _\~I solve problems - I'm not a human database~_   
 
-## Working on 
-###  Relaytd
--_Everything is related, so I want the centralize it into a single app_-
+## Working on  
+
+<img src="images/relaytd_banner_preview_0.png" alt="Relaytd Banner" title="Relaytd"/>
 
 This is a **Multi-Tool Productivity and Digital Archive App** </br>
-Because you're more effective having everything centralized
 |  Component | Main Stack |   Description|
 |---|---|---|
 |  <a href="https://github.com/Stickykenny/Relaytd">Relayd</a> |  Java-Spring  | Back-End and database management logics |
