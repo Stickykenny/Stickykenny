@@ -11,7 +11,7 @@ _\~I solve problems - I'm not a human database~_
 
 <img src="images/relaytd_banner_preview_0.png" alt="Relaytd Banner" title="Relaytd"/>
 
-This is a **Multi-Tool Productivity and Digital Archive App** 
+This is a **Multi-Tool Productivity and Digital Archive App**   
 [Ecosystem's Backlog](https://github.com/org-or-user-name/repo-name/projects/1)
 
 |  Component | Main Stack |   Description|
