@@ -1,6 +1,4 @@
 <div align="center">
-
-## StickyKenny
 Software Engineer - Creative Coder (Graphics)   </br><font size="2">_and whatever else gets the job done._</font>
 
 
@@ -9,9 +7,10 @@ _\~I solve problems - I'm not a human database~_
 
 ## Working on  
 
-<img src="images/relaytd_banner_preview_0.png" alt="Relaytd Banner" title="Relaytd"/>
+[![Relaytd Banner](images/relaytd_banner_preview_0.png)](https://stickykenny.github.io/Overlaytd/tree)
 
-This is a **Multi-Tool Productivity and Digital Archive App**   
+This is a [**Multi-Tool Productivity and Digital Archive App**](https://stickykenny.github.io/Overlaytd/tree)  
+
 [Ecosystem's Backlog](https://github.com/users/Stickykenny/projects/2)
 
 |  Component | Main Stack |   Description|
