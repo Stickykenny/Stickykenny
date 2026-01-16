@@ -1,8 +1,10 @@
 <div align="center">
-Software Engineer - Creative Coder (Graphics)   </br><font size="2">_and whatever else gets the job done._</font>
+
+Software Engineer - Creative Coder (Graphics) - [2D Animator Hobbyist](https://www.instagram.com/stkykenny/)
+</br><font size="2"><i>and whatever else gets the job done</i></font>
 
 
-_\~Comment your code properly, because you won't remember what you did the next day.~_  
+_\~Comment your code properly, because you won't remember what you did.~_  
 _\~I solve problems - I'm not a human database~_   
 
 ## Working on  
